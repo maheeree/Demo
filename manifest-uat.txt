@@ -1,2 +1,3 @@
 spring.app.name="demo",
 version="0.0.3"
+info="test"
